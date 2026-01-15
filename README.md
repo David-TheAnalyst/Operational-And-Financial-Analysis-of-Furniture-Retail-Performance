@@ -125,6 +125,7 @@ Comparison with Initial Findings
 </div>
 
 Above is a single-page dynamic dashboard created in Excel that can be sliced by the 4 different Regions.
+To interact with the live visualization, Click on the [Link](https://github.com/David-TheAnalyst/Operational-And-Financial-Analysis-of-Furniture-Retail-Performance/blob/main/3.%20Furniture%20Sales%20Overview%20DB.xlsx)
 
 Key Metrics Displayed: 
 
